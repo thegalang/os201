@@ -1,2 +1,10 @@
 OS 2020 1
 Assignment of Week 00: done!
+
+Saya juga telah melakukan assignment yang diberikan dikelas yang berkaitan dengan https://scele.cs.ui.ac.id/mod/forum/discuss.php?d=15818
+
+Yang saya lakukan:
+- Membuat kode python untuk mengubah nama pada INPUT.txt menjadi nama user pada INPUT.txt
+- Membuat kode python untuk mengubah nama pada INPUT.txt menjadi nama user yang di hash pada INPUT.txt
+- Membuat kode python untuk parsing INPUT.txt sesuai dengan permintaan OUTPUT.txt
+Semua kode-kode python dan resultnya dapat dilihat di folder week00
