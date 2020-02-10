@@ -1,1 +1,18 @@
-Week02: tried the demos and read the slides
+-----BEGIN PGP MESSAGE-----
+Version: BCPG C# v1.6.1.0
+
+hQIMA4BxSVkIulX+AQ/+PI4ay1Re/sAdoTG2S9Uj2KQhG0wQ4sFvVGYGCRr/dZx/
+2OjYU7gFg9qPZ+GewwxoJIxpujp2tUlIAISo1UEqmIoQEtyNfO08mTNO+6FaCVsb
+gjnb242cnIOWWVQiOspRe1Q9lkYApp/bsntzZyPYAyZv9oFzXnBYJF4LDBnW6gjt
+hlGv/pL0j3y/YUI19j+zqrNQd3rM+kS2nOlr27UQCmsmXinfDhoddaWr2KdTnoFl
+Zp5FYBTfhGb2j29wvKkwfd3VUyxnzdadAmhv2+X5iiqnso25AGagOhKZwCoxbd0X
+t7Oh7gbMMWDTqipbh4cFJszVksRBDCLy0YrcN51IiFSoZ4dNDSRrDKcCKk5PVPxz
+w5otSgfeeruhZ5U5tTzT6TqMXBXV9ZHA1vu9Y/WH0j2qo+V9qXriDUJJiwFWpANc
+bT8bEmR9S+bx9AWgsY8reo6zk1fowm+jOUhw/IGF4TvtW/kSXqQlBlHSU3Vd5U54
+9D2UjJNNvZyjYumnlniZzWcf8/+N622/TWNau7n7f+0vWHfKvaYaH5Tg4m6pZmxY
+6+CUw9f5d6qsKfI1/30VvdCVRldYfe6Dpd/rXP+IscskSv+eDmSH9ck8UAZLzVY7
+p4lM+V93VEl06fkaB1un3e8n37SebaqeVyPWHVW+w9ssP+jwUdZr75WoNWCQLJ3J
+SbzwNCsuZIaKHqmsUiteiazD1vxH3Srdk9ifqb9zcEmu1XvLdIeXVT8MAmU4xkEh
+PZR0PkIKIEczaIIwXQKo5XMXEY4wvYpTF1Y=
+=h6qL
+-----END PGP MESSAGE-----
