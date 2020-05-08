@@ -1,0 +1,14 @@
+Hadir pak
+
+works = project<essn, pno> (works_on)
+employeeproj <- project<ssn, pno, super_ssn>(employee join<ssn = essn> works)
+
+employeeandsuper <- project<ssn, pno, pno2>(employeeproj join<super_ssn = essn> rename<ssn, pno2> (works))
+
+employeeallproj <- project<ssn, pno, pno2>(works join<ssn = ssn, pno = pno2> rename<ssn, pno2> (works))
+
+bad_employee = project<ssn>(employeeallproj - employeeandsuper)
+
+good employee = project<ssn> (employee) - bad_employee
+
+data = employee semi_join<ssn = ssn> good_employee
