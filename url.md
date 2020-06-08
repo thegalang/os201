@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Galangkangin Gotera | URL"
 permalink: /URLs/
 theme: jekyll-theme-time-machine
