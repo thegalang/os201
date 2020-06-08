@@ -2,7 +2,6 @@
 layout: default
 title: "Galangkangin Gotera | URL"
 permalink: /URLs/
-theme: jekyll-theme-time-machine
 ---
 
 Berikut adalah link-link materi seputar OS yang membantu:

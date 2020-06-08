@@ -2,7 +2,6 @@
 layout: default
 title: "Galangkangin Gotera | Homepage"
 permalink: /
-theme: jekyll-theme-time-machine
 ---
 
 Nama: Galangkangin Gotera
