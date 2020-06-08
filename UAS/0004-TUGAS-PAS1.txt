@@ -1,0 +1,34 @@
+Script started on 2020-06-08 17:12:46+0800
+$ PS1="$ "
+$ echo $GitHubUser
+thegalang
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200608-171253-e0ce-UAS/> 
+$ PS1="\$(eval \$PSTAMP)"
+200608-171255-2f1d-UAS/> echo -e $CEKSAYA
+thegalang ZCZCSCRIPTSTART 200608-151821 thegalang
+thegalang thegalang 200608-151851-b68b-UAS/ 200608-151851 SEQOK SUMOK b68bcd18
+thegalang thegalang 200608-151859-24bd-UAS/ 200608-151859 SEQOK SUMOK 24bdc4e9
+thegalang thegalang 200608-151902-a327-UAS/ 200608-151902 SEQOK SUMOK a327320c
+thegalang thegalang 200608-151911-d931-UAS/ 200608-151902 SEQOK SUMOK d93183a2
+thegalang ZCZCSCRIPTSTOP 200608 151915 SEQOK
+200608-171300-b776-UAS/> echo -e $CEKSEBELA1
+thegalang ZCZCSCRIPTSTART 200531-133456 titusdirgantoro
+thegalang titusdirgantoro 200531-133530-3d4d-titus.dirgantoro/ 200531-133530 SEQOK SUMOK 3d4d757f
+thegalang titusdirgantoro 200531-133535-b9dd-titus.dirgantoro/ 200531-133535 SEQOK SUMOK b9dd823e
+thegalang titusdirgantoro 200531-133542-b99b-titus.dirgantoro/ 200531-133542 SEQOK SUMOK b99b674d
+thegalang titusdirgantoro 200531-133549-1596-titus.dirgantoro/ 200531-133549 SEQOK SUMOK 1596753f
+thegalang ZCZCSCRIPTSTOP 200531-133556 SEQOK
+200608-171305-c7bd-UAS/> echo -e $CEKSEBELA2
+thegalang ZCZCSCRIPTSTART 200605-020903 tolhassianipar
+thegalang tolhassianipar 200605-020945-27ed-tolhas.parulian/ 200605-020945 SEQOK SUMOK 27edff59
+thegalang tolhassianipar 200605-021027-9e78-tolhas.parulian/ 200605-021027 SEQOK SUMOK 9e78d28f
+thegalang tolhassianipar 200605-021033-3864-tolhas.parulian/ 200605-021033 SEQOK SUMOK 3864700b
+thegalang tolhassianipar 200605-021051-90f8-tolhas.parulian/ 200605-021051 SEQOK SUMOK 90f863bd
+thegalang ZCZCSCRIPTSTOP 200605-021230 SEQOK
+200608-171310-c14a-UAS/> exit
+exit
+
+Script done on 2020-06-08 17:13:12+0800
